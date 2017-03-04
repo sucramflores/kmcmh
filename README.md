@@ -4,7 +4,7 @@
 The criteria:
 
 1.	Accept the url via command line argument: (done!)
-    php script.php "http://api.stage.kmchome.com/example.json"
+    Example: php script.php "http://api.stage.kmchome.com/example.json"
     
 2.	Handle if the url does NOT return valid JSON with a simple output message. (done!)
 
