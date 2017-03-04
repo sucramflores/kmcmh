@@ -3,7 +3,7 @@
   
 <h3>The criteria:</h3>
 
-1.	Accept the url via command line argument:  <strong>(done!)<br />
+1.	Accept the url via command line argument:  <strong>(done!)</strong><br />
     Example: <strong>php script.php "http://api.stage.kmchome.com/example.json"</strong><br />
 2.	Handle if the url does NOT return valid JSON with a simple output message.<strong> (done!)</strong><br />
     
