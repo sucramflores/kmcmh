@@ -10,7 +10,7 @@ The criteria:
 
 3.	Convert the JSON into a stdclass object. (done!)
 
-4.	Save that converted object into a separate file (done!)
+4.	Save that converted object into a separate file \n (done!)
     output.txt
 
 5.	Print the runtime of the script after completion (done!)
